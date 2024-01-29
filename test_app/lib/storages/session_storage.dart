@@ -1,0 +1,3 @@
+class SessionStorage {
+  String? lastOpenedChannelName;
+}
